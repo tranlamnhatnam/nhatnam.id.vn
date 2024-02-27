@@ -31,8 +31,7 @@ body {
   padding: 1rem 0;
 }
 
-#clock #date,
-#clock #text {
+#clock #date {
   font-size: 2rem;
   letter-spacing: 0.1rem;
 }
